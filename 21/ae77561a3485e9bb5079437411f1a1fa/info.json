@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://github.com/EduardsSk/kalnciema-25a-canopy/21/ae77561a3485e9bb5079437411f1a1fa",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4032,
+  "height": 2268,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 168
+    },
+    {
+      "width": 2000,
+      "height": 1125
+    }
+  ]
+}
