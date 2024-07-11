@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://github.com/EduardsSk/kalnciema-iiif/7/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "20230306_123043"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Correspondence"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by LVVA"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://github.com/EduardsSk/kalnciema-iiif/7/09bdb224581feee8e4437c14d20412a6/full/300,168/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 168,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://github.com/EduardsSk/kalnciema-iiif/7/canvas/1",
+            "type": "Canvas",
+            "height": 2268,
+            "width": 4032,
+            "label": {
+                "none": [
+                    "20230306_130111"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://github.com/EduardsSk/kalnciema-iiif/7/09bdb224581feee8e4437c14d20412a6/full/300,168/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 168,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://github.com/EduardsSk/kalnciema-iiif/7/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://github.com/EduardsSk/kalnciema-iiif/7/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://github.com/EduardsSk/kalnciema-iiif/7/canvas/1",
+                            "body": {
+                                "id": "https://github.com/EduardsSk/kalnciema-iiif/7/09bdb224581feee8e4437c14d20412a6/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://github.com/EduardsSk/kalnciema-iiif/7/09bdb224581feee8e4437c14d20412a6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
