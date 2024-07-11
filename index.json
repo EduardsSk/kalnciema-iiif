@@ -1,0 +1,498 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://eduardssk.github.io/kalnciema-iiif/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "K25A-materiali"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/2-5/4f015f3f0aa2193987ed483b6cbd445d/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/2-5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/14/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/15/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/17/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/19/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/21/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/22/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/24/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/25/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/26/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/27/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/28/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/29/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/30/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/31/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/32/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/33/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/34/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/35/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/36/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/38/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/39/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/40/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/41/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/42/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/43/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/44/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/45/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/46/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/47/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/48/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/49/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/50/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/51/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/52/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/53/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/54/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/55/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Noslēguma lapa lietai"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/9.2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/9.1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/37/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "20230306_123043"
+                ]
+            }
+        }
+    ]
+}

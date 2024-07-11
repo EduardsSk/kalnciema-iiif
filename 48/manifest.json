@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://eduardssk.github.io/kalnciema-iiif/48/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "20230306_123043"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by LVVA"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/48/f724071d32cfa3c008b62885bff5b85d/full/300,168/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 168,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/48/canvas/1",
+            "type": "Canvas",
+            "height": 2268,
+            "width": 4032,
+            "label": {
+                "none": [
+                    "20230306_125553"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/48/f724071d32cfa3c008b62885bff5b85d/full/300,168/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 168,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/48/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://eduardssk.github.io/kalnciema-iiif/48/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://eduardssk.github.io/kalnciema-iiif/48/canvas/1",
+                            "body": {
+                                "id": "https://eduardssk.github.io/kalnciema-iiif/48/f724071d32cfa3c008b62885bff5b85d/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://eduardssk.github.io/kalnciema-iiif/48/f724071d32cfa3c008b62885bff5b85d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

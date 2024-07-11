@@ -1,0 +1,129 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://eduardssk.github.io/kalnciema-iiif/6/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "20230306_123043"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by LVVA"
+            ]
+        }
+    },
+    "thumbnail": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/6/65f0c7fc8116d182a2eb1b419d24059c/full/300,168/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 168,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/1",
+            "type": "Canvas",
+            "height": 2268,
+            "width": 4032,
+            "label": {
+                "none": [
+                    "20230306_130058"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/6/65f0c7fc8116d182a2eb1b419d24059c/full/300,168/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 168,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/1",
+                            "body": {
+                                "id": "https://eduardssk.github.io/kalnciema-iiif/6/65f0c7fc8116d182a2eb1b419d24059c/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://eduardssk.github.io/kalnciema-iiif/6/65f0c7fc8116d182a2eb1b419d24059c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/2",
+            "type": "Canvas",
+            "height": 2268,
+            "width": 4032,
+            "label": {
+                "none": [
+                    "20230306_130106"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/6/0029ff8bdfd76201585598bf976305a3/full/300,168/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 168,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://eduardssk.github.io/kalnciema-iiif/6/canvas/2",
+                            "body": {
+                                "id": "https://eduardssk.github.io/kalnciema-iiif/6/0029ff8bdfd76201585598bf976305a3/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://eduardssk.github.io/kalnciema-iiif/6/0029ff8bdfd76201585598bf976305a3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
